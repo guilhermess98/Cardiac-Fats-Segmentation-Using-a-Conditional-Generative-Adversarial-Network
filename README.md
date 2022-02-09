@@ -1,4 +1,4 @@
-# Cardiac-Fats-Segmentation-Using-a-Conditional-Generative-Adversarial-Network
+# Cardiac Fats Segmentation Using a Conditional Generative Adversarial Network
 
 ## Abstract
 
