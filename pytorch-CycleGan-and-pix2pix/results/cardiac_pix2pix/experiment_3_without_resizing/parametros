@@ -1,0 +1,2 @@
+python3 train.py --dataroot ./datasets/cardiac_fat --name cardiac_pix2pix --model pix2pix --direction BtoA --load_size 572 --crop_size 512 --display_winsize 512 --batch_size 4
+
